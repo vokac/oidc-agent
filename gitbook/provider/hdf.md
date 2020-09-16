@@ -1,5 +1,5 @@
-## Helmholtz Data Federation (HDF)
-HDF does not support dynamic client registration, but there is a
+## Helmholtz Data Federation (HDF) / HIFIS
+HIFIS / HDF do now support dynamic client registration, but there is a
 preregistered public client so that account configuration generation is as easy
 as with dynamic client registration.
 

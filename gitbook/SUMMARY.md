@@ -1,4 +1,4 @@
-# Summary
+
 
 * [Installation]()
   * [Linux](installation/install.md)
@@ -27,7 +27,7 @@
         * [Elixir](provider/elixir.md)
         * [Google](provider/google.md)
         * [HBP](provider/hbp.md)
-        * [HDF](provider/hdf.md)
+        * [HIFIS/HDF](provider/hdf.md)
         * [IAM (INDIGO/DEEP)](provider/iam.md)
         * [KIT](provider/kit.md)
         * [Any Other Provider](provider/general.md)
